@@ -1,0 +1,7 @@
+.vscode
+./.vscode
+*.o
+
+whatever
+iter
+array
